@@ -8,7 +8,7 @@ const PetsList = ({ pets }) => {
   
   return (
     <div>
-      {renderPets}
+      { renderPets }
     </div>
   );
 };
